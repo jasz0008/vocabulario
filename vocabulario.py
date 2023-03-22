@@ -1,3 +1,4 @@
+from argparse import ArgumentParser
 import csv
 from pathlib import Path
 import random
@@ -18,6 +19,18 @@ def print_review():
 
 
 if __name__ == "__main__":
+    parser = ArgumentParser()
+    parser.add_argument(
+        "-n",
+        required=False,
+        type=int,
+        help="number of practice examples"
+    )
+    args = parser.parse_args()
+
+    if args.n:
+        assert args.n > 0
+
     data_file = Path(__file__).parent / "data.csv"
     assert data_file.is_file()
 
@@ -26,14 +39,21 @@ if __name__ == "__main__":
         reader = csv.reader(f)
         for row in reader:
             data.append(row)
+
     random.shuffle(data)
+
+    if args.n:
+        n = min(args.n, len(data))
+        data = data[:n]
+    total = len(data)
 
     num = 1
     num_correct = 0
 
     try:
         for en, es in data:
-            es_response = input(f"{num:>4}. {en} →  ").strip()
+            rnum = total - num
+            es_response = input(f"{rnum:>4}. {en} →  ").strip()
             if es_response != es:
                 print(f"Incorrect: {es}")
                 review.append(f"{en} →  {es}")
