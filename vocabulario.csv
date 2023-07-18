@@ -1,0 +1,740 @@
+0,cero,1
+1,uno,1
+2,dos,1
+3,tres,1
+4,cuatro,1
+5,cinco,1
+6,seis,1
+7,siete,1
+8,ocho,1
+9,nueve,1
+10,diez,1
+11,once,1
+12,doce,1
+13,trece,1
+14,catorce,1
+15,quince,1
+16,dieciséis,1
+17,diecisiete,1
+18,dieciocho,1
+19,diecinueve,1
+20,veinte,1
+21,veintiuno,1
+22,veintidós,1
+23,veintitrés,1
+24,veinticuatro,1
+25,veinticinco,1
+26,veintiséis,1
+27,veintisiete,1
+28,veintiocho,1
+29,veintinueve,1
+30,treinta,1
+40,cuarenta,2
+50,cincuenta,2
+60,sesenta,2
+70,setenta,2
+80,ochenta,2
+90,noventa,2
+100,cien,2
+200,doscientos,2
+300,trescientos,2
+400,cuatrocientos,2
+500,quinientos,2
+600,seiscientos,2
+700,setecientos,2
+800,ochocientos,2
+900,novecientos,2
+1000,mil,2
+1000000,millón,2
+(North) American,norteamericano,3
+(to the) northeast of,al noreste de,2
+(to the) southwest of,al suroeste de,2
+(to the) west of,al oeste de,2
+a lot of,un montón de,4
+above; about,sobre,2
+academic major,la especialización,2
+accident,el accidente,0
+accounting,la contabilidad,2
+across from,enfrente de,2
+airport,el aeropuerto,5
+already,ya,6
+American (U.S.),estadouniense,3
+And you? (fam.),¿Y tú?,1
+And you? (form.),¿Y usted?,1
+angry,enojado,5
+animal,el animal,0
+announcements,los anuncios,2
+apple,la manzana,0
+April,abril,5
+archaeology,la arqueología,2
+Argentine,argentino,3
+arrival,la llegada,5
+art,el arte,2
+artist,el artista,2
+at the corner of,en la esquina de,2
+August,agosto,5
+autumn,el otoño,5
+backpack,la mochila,2
+bad,malo,3
+ball,la pelota,4
+banana,el plátano,0
+bank,el banco,2
+bar,el bar,2
+baseball,el béisbol,4
+basketball,el baloncesto,4
+bathing suit,el traje de baño,6
+beach,la playa,5
+beautiful,hermoso,6
+beauty salon,el salón de belleza,2
+because,porque,2
+bed,la cama,5
+behind,detrás de,2
+bellhop,el botones,5
+below,debajo de,2
+belt,el cinturón,6
+between; among,entre,2
+bicycle,la bicicleta,0
+big,grande,3
+biology,la biología,2
+black,negro,3
+blackboard; whiteboard,la pizarra,2
+blinds,las persianas,2
+blond,rubio,3
+blouse,la blusa,6
+blue,azul,6
+Bolivian,boliviano,3
+book,el libro,2
+bookstore,la librería,2
+boot,la bota,6
+bored; boring,aburrido,5
+boy,el muchacho,1
+boyfriend,el novio,3
+Brazilian,brasileño,3
+bread,el pan,0
+breads,los panes,0
+broad,ancho,3
+brother,el hermano,3
+brother-in-law,el cuñado,3
+brown,marrón,6
+brunet(te),moreno,3
+bucket,el balde,5
+bus,el autobús,1
+bus station,la estación de autobús,0
+buses,los autobuses,0
+business administration,la administración de empresas,2
+busy,ocupado,5
+by; next to,junto a,2
+Bye.,Chau.,1
+café,el café,4
+cafeteria,la cafetería,2
+calculator,la calculadora,2
+Canadian,canadiense,3
+cash,en efectivo,6
+cash register,la caja,6
+ceiling,el techo,2
+chair,la silla,2
+chalk,la tiza,2
+cheap,barato,6
+cheerful,alegre,5
+chemistry,la química,2
+child,el chico,1
+Chilean,chileno,3
+Chinese,chino,3
+church,la iglesia,4
+cinema,el cine,4
+city,la ciudad,0
+city or town square,la plaza,4
+class,la clase,2
+classmate,el compañero de clase,2
+clean,limpio,5
+clerk,el dependiente,6
+climate,el clima,0
+clock,el reloj,2
+close to; near; by,cerca de,2
+closed,cerrado,5
+clothes,la ropa,6
+coat,el abrigo,6
+cold front,el frente frío,5
+Colombian,colombiano,3
+color,el color,0
+comfortable,cómodo,5
+community,la comunidad,1
+computer,la computadora,1
+computer programmer,el programador,3
+computer science,la computación,2
+confused,confundido,5
+content (adj.),contento,5
+conversation,la conversación,1
+Costa Rican,costarricense,3
+countries,los países,0
+country,el país,1
+countryside,el campo,5
+course,el curso,2
+cousin,el primo,3
+crazy,loco,6
+credit card,la tarjeta de crédito,6
+crowd,la muchedumbre,0
+Cuban,cubano,3
+customer,el cliente,6
+customs inspector,el inspector de aduanas,5
+cycling,el ciclismo,4
+daughter-in-law,la nuera,3
+day,el día,2
+days,los días,2
+debit card,la tarjeta de débito,6
+December,diciembre,5
+Delighted; Pleased to meet you.,Encantado.,1
+department store,el almacén,6
+departure; exit,la salida,5
+desk (for students),el pupitre,2
+desk (for teachers and office workers),el escritorio,2
+diary,el diario,1
+dictionary,el diccionario,1
+difficult,difícil,3
+dirty,sucio,5
+disorderly,desordenado,5
+doctor,el doctor,3
+Dominican,dominicano,3
+door,la puerta,2
+doorman,el portero,1
+dormitory,la residencia estudiantil,2
+double room,la habitación doble,5
+down,abajo,2
+downstairs,abajo de,2
+downtown,el centro,4
+dress,el vestido,6
+driver,el conductor,1
+Dutch,holandés,3
+each,cada,6
+easy,fácil,3
+economics,la economía,2
+Ecuadorian,ecuatoriano,3
+eighth,octavo,5
+elegant,elegante,6
+elevator,el ascensor,5
+embarrased,avergonzado,5
+employee,el empleado,5
+engineer,el ingeniero,3
+English (f.),inglesa,3
+English (m.),inglés,3
+enthusiast; fan,el aficionado,4
+eraser,el borrador,2
+excellent,excelente,5
+exercise,el ejercicio,0
+expensive,caro,3
+fabulous,fabuloso,5
+family,la familia,3
+famous,famoso,5
+far from,lejos de,2
+fat,gordo,3
+father,el padre,3
+father-in-law,el suegro,3
+favorite,favorito,4
+February,febrero,5
+few; a little,poco,0
+fifth,quinto,5
+Filipino,filipino,3
+first,primer,5
+flag,la bandera,2
+floor (of a building),el piso,5
+flower,la flor,0
+foolish,tonto,3
+football,el fútbol americano,4
+foreign languages,las lenguas extranjeras,2
+fork,el tenedor,0
+fourth,cuarto,5
+French (f.),francesa,3
+French (m.),francés,3
+Friday,viernes,2
+friend,el amigo,3
+from; since,desde,6
+front,el frente,5
+fun,divertido,0
+fun activity; entertainment; recreation,la diversión,4
+game; match,el partido,4
+gas station,la gasolinera,2
+geography,la geografía,2
+German (f.),alemana,3
+German (m.),alemán,3
+gift,el regalo,6
+gloves,los guantes,6
+golf,el golf,4
+good,bueno,3
+Good afternoon.,Buenas tardes.,1
+Good evening; Good night.,Buenas noches.,1
+Good morning.,Buenos días.,1
+Goodbye.,Adiós.,1
+grandfather,el abuelo,3
+grandson,el nieto,3
+gray,gris,6
+great-grandfather,el bisabuelo,3
+Greek,griego,3
+green,verde,0
+Greetings to...,Saludos a...,1
+ground floor,la planta baja,5
+Guatemalan,guatemalteco,3
+guest,el huésped,5
+guitar,la guitarra,0
+gymnasium,el gimnasio,4
+half-brother,el medio hermano,3
+hand,la mano,0
+handsome (m.),guapo,3
+happy,feliz,5
+hard-working,trabajador,3
+hat,el sombrero,6
+heaven,el cielo,0
+here,aquí,0
+Hi.,Hola.,1
+high,alto,3
+history,la historia,2
+hockey,el hockey,4
+hole,el hueco,0
+homework,la tarea,2
+Honduran,hondureño,3
+hospital,el hospital,2
+hotel,el hotel,5
+house,la casa,0
+How are you? (fam.),¿Cómo estás?,1
+How are you? (form.),¿Cómo está usted?,1
+How are you?; How’s it going?,¿Qué tal?,1
+How can I help you?,¿En qué puedo servirles?,5
+How much/many?,¿Cuánto?,1
+How’s the weather?,¿Qué tiempo hace?,5
+humanities,las humanidades,2
+husband,el esposo,3
+I would like to introduce you to... (fam.),Te presento a...,1
+I would like to introduce you to... (form.),Le presento a...,1
+I’m from...,Soy de...,1
+I’m sorry.,Lo siento.,1
+idiom,el idioma,0
+important,importante,3
+in a bad mood,de mal humor,5
+in a good mood,de buen humor,5
+in front of,delante de,2
+in love,enamorado,5
+in love with,enamorado de,5
+in the middle of,en medio de,2
+In whose name?,¿A nombre de quién?,5
+in; on,en,2
+incredible,increíble,5
+Indian,indio,3
+inside,adentro de,2
+interesting,interesante,3
+Irish,irlandés,3
+Israeli,israelí,3
+It’s cool.,Hace fresco.,5
+It’s four twenty.,Son las cuatro y veinte.,1
+It’s half past twelve.,Son las doce y media.,1
+It’s March 2nd.,Es el dos de marzo.,5
+It’s quarter to one.,Es la una menos cuarto.,1
+It’s raining. (fam.),Llueve.,5
+It’s raining. (form.),Está lloviendo.,5
+It’s snowing. (fam.),Nieva.,5
+It’s snowing. (form.),Está nevando.,5
+It’s the first of October.,Es el primero de octubre.,5
+it’s the same,es igual,5
+It’s two o’clock exactly.,Son las dos en punto.,1
+It’s very cloudy.,Está muy nublado.,5
+It’s very cold.,Hace mucho frío.,5
+It’s very hot.,Hace mucho calor.,5
+It’s very sunny.,Hace mucho sol.,5
+It’s very windy.,Hace mucho viento.,5
+Italian,italiano,3
+jacket,la chaqueta,6
+January,enero,5
+Japanese (f.),japonesa,3
+Japanese (m.),japonés,3
+jeans,los jeans,6
+journalism,el periodismo,2
+journalist,el periodista,3
+July,julio,5
+June,junio,5
+key,la llave,5
+knife,el cuchillo,0
+laboratory,el laboratorio,2
+landscape,el paisaje,5
+last name,el apellido,3
+last night,anoche,6
+last week,la semana pasada,6
+last year,el año pasado,6
+last; past,pasado,6
+lazy,perezoso,0
+lectern,el atril,2
+lesson,la lección,0
+liberty,la libertad,0
+library,la biblioteca,2
+light,la luz,2
+lights,las luces,2
+Likewise.,Igualmente.,1
+literature,la literatura,2
+long,largo,3
+luggage,el equipaje,5
+magnificent,magnífico,5
+man,el hombre,1
+map,el mapa,2
+March,marzo,1
+marker,el marcador,2
+market,el mercado,2
+married,casado,3
+marvelous,maravilloso,5
+mathematics,las matemáticas,2
+May,mayo,5
+maybe; perhaps (form.),tal vez,5
+maybe; perhaps (hopeful) (form.),quizás,5
+Mexican,mexicano,3
+Miss (+ last name),señorita,1
+Monday,lunes,2
+money,el dinero,6
+month,el mes,5
+mother,la madre,3
+Mr. (+ first name),don,1
+Mr. (+ last name),señor,1
+Mrs. (+ first name),doña,1
+Mrs. (+ last name),señora,1
+much; many; a lot of,mucho,1
+museum,el museo,4
+music,la música,2
+music,la música,2
+My name is...,Me llamo...,1
+name,el nombre,1
+nationality,la nacionalidad,1
+nephew,el sobrino,3
+nervous,nervioso,5
+new,nuevo,1
+next to,al lado de,2
+Nicaraguan,nicaragüense,3
+nice; charming,simpático,3
+nice; friendly,amable,5
+ninth,noveno,5
+noise,el ruido,0
+Norwegian,noruego,3
+Not very well.,No muy bien.,1
+notebook,el cuaderno,1
+nothing,nada,1
+November,noviembre,5
+now,ahora,2
+number,el número,1
+nurse,el enfermero,3
+October,octubre,5
+old,viejo,3
+on top of,encima de,2
+once,una vez,6
+open,abierto,5
+open-air market,el mercado al aire libre,6
+orange,anaranjado,6
+orderly,ordenado,5
+other; another,otro,6
+outside,afuera,5
+outside of,afuera de,2
+over there,allá,2
+pair,el par,6
+Panamanian,panameño,3
+pants,los pantalones,6
+pantyhose; stockings,las medias,6
+paper,el papel,2
+Paraguayan,paraguayo,3
+Pardon me; Excuse me. (to get someone’s attention or excuse yourself),Perdón.,1
+Pardon me; Excuse me. (to request permission),Con permiso.,1
+park,el parque,4
+party,la fiesta,0
+passenger,el pasajero,1
+passport,el pasaporte,5
+pastime; hobby,el pasatiempo,4
+pen,la pluma,2
+pencil,el lápiz,2
+pencil sharpener,el sacapuntas,2
+pencils,los lápices,2
+people,la gente,3
+perfect,perfecto,3
+period of time,la temporada,5
+person,la persona,3
+Peruvian,peruano,3
+pharmacy,la farmacia,2
+phenomenal,fenomenal,5
+photo,la foto,1
+photograph,la fotografía,1
+physician,el médico,3
+physics,la física,2
+pianist,el pianista,3
+pink,rosado,6
+place,el lugar,4
+plank,el tablón,2
+player,el jugador,3
+plaza,la plaza,4
+please,por favor,1
+Pleased to meet you.,Mucho gusto.,1
+plug,el enchufe,2
+poetry,la poesía,0
+Polish,polaco,3
+poor,pobre,3
+poor,pobre,6
+Portuguese,portugués,3
+pretty (f.),bonita,3
+price,el precio,6
+problem,el problema,1
+professor,el profesor,1
+program,el programa,1
+psychology,la psicología,2
+Puerto Rican,puertorriqueño,3
+purple,morado,6
+purse; bag,la bolsa,6
+question,la pregunta,0
+radio,la radio,2
+raincoat,el impermeable,6
+ready; smart,listo,5
+red,rojo,0
+red-haired,pelirrojo,3
+relatives,los parientes,3
+reservation,la reservación,0
+restaurant,el restaurante,4
+rich,rico,3
+rich,rico,6
+right now,ahora mismo,5
+roommate,el compañero de cuarto,2
+round-trip ticket,el pasaje de ida y vuelta,5
+Russian,ruso,3
+sad,triste,5
+sailboard,la tabla de windsurf,5
+sale,la rebaja,6
+salesperson,el vendedor,6
+Salvadoran,salvadoreño,3
+same,mismo,3
+sandals,las sandalias,6
+sandwich,el sándwich,0
+Saturday,sábado,2
+schedule,el horario,2
+school,la escuela,1
+sciences,las ciencias,2
+scream,el grito,5
+sea,el mar,5
+season,la estación,5
+second,segundo,5
+secretary,el secretario,3
+sedative,el calmante,0
+See you later.,Hasta luego.,1
+See you later. (Terminator),Hasta la vista.,1
+See you soon.,Hasta pronto.,1
+See you tomorrow.,Hasta mañana.,1
+See you.,Nos vemos.,1
+semester,el semestre,2
+September,septiembre,5
+seventh,séptimo,5
+shaving cream,la crema de afeitar,5
+shelf,el estante,2
+shirt,la camisa,0
+shirt,la camisa,6
+shoe,el zapato,0
+shopping mall,el centro comercial,6
+short (in height),bajo,3
+short (in length),corto,3
+shorts,los pantalones cortos,6
+should study,deber estudiar,0
+sign,el cartel,2
+single,sotero,3
+single room,la habitación individual,5
+sixth,sexto,5
+skiing,el esquí,4
+skirt,la falda,6
+small,pequeño,3
+sneakers,los zapatos de tenis,6
+So-so; OK.,Regular.,1
+"so, then",entonces,0
+soccer,el fútbol,4
+sociology,la sociología,2
+sock,el calcetín,6
+soldier,el soldado,0
+son,el hijo,3
+son-in-law,el yerno,3
+song,la canción,0
+soup,la sopa,0
+Spanish,español,3
+spare (free) time,los ratos libres,4
+speaker,el altavoz,2
+spoon,la cuchara,0
+sports-related,deportivo,4
+spring,la primavera,5
+stadium,el estadio,4
+stepbrother,el hermanastro,3
+stepfather,el padrastro,3
+stepmother,la madrastra,3
+stepson,el hijastro,3
+store,la tienda,2
+store,la tienda,6
+street,la calle,2
+strong,fuerte,3
+student,el estudiante,1
+stupendous,estupendo,5
+subway station,la estación de metro,5
+suddenly,de repente,6
+suit,el traje,6
+suitcase,la maleta,2
+summer,el verano,5
+Sunday,domingo,2
+sunglasses,las gafas de sol,6
+sure; safe; confident,seguro,5
+surfboard,la tabla de surf,5
+sweater,el suéter,6
+Swedish,sueco,3
+swimming,la natación,4
+swimming pool,la piscina,5
+Swiss,suizo,3
+switch,el interruptor,2
+t-shirt,la camiseta,6
+table,la mesa,2
+teacher,el maestro,1
+team,el equipo,4
+tennis,el tenis,4
+tenth,décimo,5
+test; exam,el examen,2
+test; quiz,la prueba,2
+Thank you very much; Thanks a lot.,Muchas gracias.,1
+the day before yesterday,anteayer,6
+The pleasure is mine.,El gusto es mío.,1
+the tests,los exámenes,2
+The weather is bad.,Hace mal tiempo.,5
+The weather is good.,Hace buen tiempo.,5
+theater,el teatro,2
+there,ahí,2
+there is not; there are not,no hay,1
+thick,grueso,3
+thin,delgado,3
+thing,la cosa,1
+third,tercer,5
+Thursday,jueves,2
+ticket,el pasaje,5
+tie,la corbata,0
+tired,cansado,5
+to attend class,asistir a clase,0
+to be afraid,tener miedo,3
+to be careful,tener cuidado,3
+to be cold,tener frío,3
+to be hot,tener calor,3
+to be hungry,tener hambre,3
+to be in a hurry,tener prisa,3
+to be lucky,tener suerte,3
+to be on vacation,estar de vacaciones,5
+to be right,tener razón,3
+to be sleepy,tener sueño,3
+to be thirsty,tener sed,3
+to be wrong,no tener razón,3
+to be... years old,tener... años,3
+to buy online,comprar en línea,6
+to climb mountains,escalar montañas,4
+to confirm a reservation,confirmar una reservación,5
+to fish,pescar,5
+to go by boat,ir en barco,5
+to go by bus,ir en autobús,5
+to go by car (fam.),ir en auto,5
+to go by car (form.),ir en automóvil,5
+to go by motorcycle (fam.),ir en moto,5
+to go by motorcycle (form.),ir en motocicleta,5
+to go by plane,ir en avión,5
+to go by taxi,ir en taxi,5
+to go on a hike,ir de excursión,4
+to go on vacation,ir de vacaciones,5
+to go shopping,ir de compras,5
+to have a headache,tener dolor de cabeza,3
+to have just done something,acabar de,6
+to learn to speak Spanish,aprender a hablar español,3
+to match with,hacer juego con,6
+to pack (one’s suitcases),hacer las maletas,5
+to play cards,jugar a las cartas,5
+to play sports,practicar deportes,4
+to rain,llover,5
+to read a magazine,leer una revista,4
+to read a newspaper,leer un periódico,4
+to read email,leer el correo electrónico,4
+to ride a bicycle,pasear en bicicleta,4
+to ride a horse,montar a caballo,5
+to say that,decir que,4
+to say the answer,decir la respuesta,4
+to skateboard,andar en patineta,4
+to snow,nevar,5
+to succeed,tener éxito,3
+to sunbathe,tomar el sol,4
+to surf,hacer surf,5
+to take a trip,hacer un viaje,5
+to take photos,tomar fotos,5
+to tell lies,decir mentiras,4
+to tell the truth,decir la verdad,4
+to the left of,a la izquierda de,2
+to the right of,a la derecha de,2
+to think about,pensar en,4
+to trust,tener confianza,3
+to visit monuments,visitar monumentos,4
+to watch movies,ver películas,4
+to windsurf,hacer windsurf,5
+to write a letter,escribir una carta,4
+to write an email,escribir un mensaje electrónico,4
+tourist,el turista,1
+town,el pueblo,0
+train station,la estación de tren,5
+trash,la basura,2
+traveler,el viajero,5
+trimester,el trimestre,2
+Tuesday,martes,2
+twice,dos veces,6
+twin,el gemelo,3
+ugly,feo,3
+uncle,el tío,3
+underwear,la ropa interior,6
+university,la universidad,2
+unpleasant,antipático,3
+until,hasta,6
+up,arriba,2
+upstairs,arriba de,2
+Uruguayan,uruguayo,3
+vegetable,la verdura,0
+Venezuelan,venezolano,3
+"Very well, thanks.","Muy bien, gracias.",1
+video,el video,1
+video game,el videojuego,4
+Vietnamese,vietnamita,3
+volleyball,el vóleibol,4
+wall,la pared,2
+wallet,la cartera,4
+wallet,la cartera,6
+wastebasket,la papelera,2
+water skiing,el esquí acuático,4
+weak,débil,3
+Wednesday,miércoles,2
+week,la semana,2
+weekend,el fin de semana,2
+Welcome!,¡Bienvenido!,1
+What day is it?,¿Qué día es hoy?,2
+What is the date today?,¿Cuál es la fecha de hoy?,5
+What is the weather like?,¿Qué tiempo hace?,5
+What time is it?,¿Qué hora es?,1
+What’s happening?; What’s going on?,¿Qué pasa?,1
+What’s in this thing?,¿Qué hay en esta cosa?,1
+What’s new?,¿Qué hay de nuevo?,1
+What’s your name? (fam.),¿Cómo te llamas?,1
+What’s your name? (form.),¿Cómo se llama usted?,1
+When?,¿Cuándo?,1
+Where (to)?,¿Adónde?,2
+Where are you from? (fam.),¿De dónde eres?,1
+Where are you from? (form.),¿De dónde es usted?,1
+Which ones?,¿Cuáles?,2
+Which?,¿Cuál?,2
+white,blanco,0
+Whose? (sing.),¿De quién?,1
+Why?,¿Por qué?,1
+will (n.),la voluntad,0
+window,la ventana,2
+winter,el invierno,5
+with,con,2
+without,sin,2
+woman,la mujer,1
+wooden,de madera,0
+word,la palabra,1
+worried,preocupado,5
+worried about,preocupado por,5
+wrong,equivocado,5
+year,el año,5
+yellow,amarillo,0
+yesterday,ayer,6
+yet; still,todavía,5
+You’re welcome. (form.),No hay de qué.,1
+You’re welcome. (inf.),De nada.,1
+young (plur.),jóvenes,3
+young (sing.),joven,3

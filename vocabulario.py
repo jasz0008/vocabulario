@@ -1,7 +1,16 @@
 from argparse import ArgumentParser
-import csv
 from pathlib import Path
 import random
+
+import pandas as pd
+
+
+# TODO
+# places
+# nationalities
+# languages
+# gran, mal, buen
+# puede ser, a lo mejor
 
 
 review = []
@@ -22,36 +31,50 @@ if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument(
         "-n",
-        required=False,
         type=int,
         help="number of practice examples"
     )
+    parser.add_argument(
+        "-c",
+        type=int,
+        help="chapter to review"
+    )
     args = parser.parse_args()
+
+    data_file = Path(__file__).parent / "vocabulario.csv"
+    assert data_file.is_file()
+
+    df = pd.read_csv(data_file)
+    df.columns = ("en", "es", "cap")
+    assert df.shape[0] > 0
+    assert df.shape[1] == 3
 
     if args.n:
         assert args.n > 0
+        args.n = min(args.n, df.shape[0])
 
-    data_file = Path(__file__).parent / "data.csv"
-    assert data_file.is_file()
+    if args.c:
+        assert args.c in df.cap.unique()
 
-    data = []
-    with open(data_file, mode="rt") as f:
-        reader = csv.reader(f)
-        for row in reader:
-            data.append(row)
+    # Filter by desired chapter first
+    if args.c:
+        df = df[df.cap == args.c]
 
-    random.shuffle(data)
-
+    # Randomly sample
     if args.n:
-        n = min(args.n, len(data))
-        data = data[:n]
-    total = len(data)
+        frac = args.n / df.shape[0]
+    else:
+        frac = 1.0
+    df = df.sample(frac=frac).reset_index(drop=True)
 
-    num = 1
+    total = df.shape[0]
     num_correct = 0
 
     try:
-        for en, es in data:
+        for num, row in df.iterrows():
+            rnum = total - num + 1  # End at 1, not 0
+            en = row.en
+            es = row.es
             rnum = total - num
             es_response = input(f"{rnum:>4}. {en} →  ").strip()
             if es_response != es:
@@ -59,8 +82,6 @@ if __name__ == "__main__":
                 review.append(f"{en} →  {es}")
             else:
                 num_correct += 1
-                
-            num += 1
     except KeyboardInterrupt:
         print_score(num_correct, num)
         print_review()
